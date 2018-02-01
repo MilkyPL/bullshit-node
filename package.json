@@ -1,0 +1,19 @@
+{
+  "name": "bullshit-node",
+  "version": "1.0.0",
+  "description": "Port of 9front's bullshit to node.js",
+  "main": "bullshit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilkyPL/bullshit-node.git"
+  },
+  "author": "MilkyPL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MilkyPL/bullshit-node/issues"
+  },
+  "homepage": "https://github.com/MilkyPL/bullshit-node#readme"
+}
