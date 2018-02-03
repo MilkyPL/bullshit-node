@@ -1,5 +1,5 @@
 {
-    "word":[
+	"word":[
 		"node",
 		"app",
 		"blockchain",
@@ -42,8 +42,8 @@
 		"storage",
 		"component",
 		"markup"
-    ],
-    "noend":[
+	],
+	"noend":[
 		"configuration",
 		"information",
 		"NoSQL",
@@ -77,8 +77,8 @@
 		"property",
 		"element",
 		"dependency "
-    ],
-    "start":[
+	],
+	"start":[
 		"agile",
 		"advanced",
 		"converged",
@@ -126,7 +126,7 @@
 		"shared",
 		"stable"
 	],
-    "protocol":[
+	"protocol":[
 		"SQL",
 		"JSON",
 		"XML",
@@ -143,7 +143,7 @@
 		"HTTP",
 		"TOR"
 	],
-    "end":[
+	"end":[
 		"layer",
 		"manager",
 		"frontend",
@@ -158,7 +158,7 @@
 		"solution",
 		"locator"
 	],
-    "suffix":[
+	"suffix":[
 		"-oriented",
 		"-based",
 		"-aware",
